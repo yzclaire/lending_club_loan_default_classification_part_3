@@ -3,7 +3,10 @@ Part-3 of the Lending Club Loan Default Classification project - Model Training 
 
 The project is split into 3 parts. This notebook is the [Part 3 - Lending Club Loan Data - Model Training and Evaluation](https://yzclaire.github.io/lending_club_loan_default_classification_part_2/)
 
-### Data Source
+### Data
+
+The dataset for this project is available on Kaggle.com and also provided by the official website of Lending Club. It has more than 2.2M rows of loan entries and 150 column of features
+
 [Link to Data](https://www.kaggle.com/wordsforthewise/lending-club)
 
 
