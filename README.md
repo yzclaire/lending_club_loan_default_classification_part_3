@@ -2,7 +2,7 @@
 
 Part-3 of the Lending Club Loan Default Classification project - Model Training and Evaluation
 
-The project is split into 3 parts. This notebook is the [Part 3 - Lending Club Loan Data - Model Training and Evaluation](https://yzclaire.github.io/lending_club_loan_default_classification_part_2/)
+The project is split into 3 parts. This notebook is the [Part 3 - Lending Club Loan Data - Model Training and Evaluation](https://yzclaire.github.io/lending_club_loan_default_classification_part_3/)
 
 ### Interesting Findings :
 - Based on feature importance of the Random Forest model and Xgboost model,  loan grade/subgrade and issue year are the msot important features in separating good loans from bad loansm
